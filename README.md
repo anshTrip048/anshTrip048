@@ -13,13 +13,9 @@
 
 ## 👨‍💼 About Me
 
-- 🎓 Final-year **B.Tech** with **Minor in Software Engineering** @ [Nirma University](https://nirmauni.ac.in)  
-- 🚀 Experienced in **Full-Stack Development**: React, Node.js, Express.js, ASP.NET, MongoDB, MySQL, PostgreSQL  
-- 🛠️ Built projects like **WanderAI**, **E-Commerce Website**, **Sudoku Solver**, and **Currency Converter**
+- 🎓 Final-year **B.Tech** with **Minor in Software Engineering** @ [Nirma University](https://nirmauni.ac.in)
 - 💼 **SDE Intern @ TripFactory, Bangalore** – Working on backend systems, Java-based services, and production-grade code  
-- 💼 **Former SDE Intern @ Bluestock Fintech** – Worked on IPO app using React, Node, Tailwind, WebSockets & Docker  
 - 🎨 **Head of Graphics, EESA** – Led a 10-member team, streamlining workflows & boosting efficiency  
-- 🏆 **300+ DSA problems solved** across LeetCode, Codeforces, CodeChef, HackerRank  
 
 ---
 
